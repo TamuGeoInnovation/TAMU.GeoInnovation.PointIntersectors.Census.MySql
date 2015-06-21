@@ -1,5 +1,0 @@
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\PointIntersectors.Census.MySql\build\v1.0\bin\AnyCPU\debug\TAMU.GeoInnovation.PointIntersectors.Census.MySql.dll
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\PointIntersectors.Census.MySql\build\v1.0\bin\AnyCPU\debug\TAMU.GeoInnovation.PointIntersectors.Census.MySql.pdb
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\PointIntersectors.Census.MySql\src\obj\Debug\PointIntersectors.Census.MySql.csprojResolveAssemblyReference.cache
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\PointIntersectors.Census.MySql\src\obj\Debug\TAMU.GeoInnovation.PointIntersectors.Census.MySql.dll
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\PointIntersectors.Census.MySql\src\obj\Debug\TAMU.GeoInnovation.PointIntersectors.Census.MySql.pdb

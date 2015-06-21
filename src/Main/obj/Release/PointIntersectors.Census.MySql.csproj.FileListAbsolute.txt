@@ -1,4 +1,0 @@
-C:\DevBuild\Tamu\GeoInnovation\PointIntersectors\PointIntersectors.Census.MySql\build\1.0.0\release\TAMU.GeoInnovation.PointIntersectors.Census.MySql.dll
-C:\DevSource\Tamu\GeoInnovation\PointIntersectors\PointIntersectors.Census.MySql\src\Main\obj\Release\PointIntersectors.Census.MySql.csprojResolveAssemblyReference.cache
-C:\DevSource\Tamu\GeoInnovation\PointIntersectors\PointIntersectors.Census.MySql\src\Main\obj\Release\TAMU.GeoInnovation.PointIntersectors.Census.MySql.dll
-C:\DevSource\Tamu\GeoInnovation\PointIntersectors\PointIntersectors.Census.MySql\build\1.0.0\AnyCPU\release\TAMU.GeoInnovation.PointIntersectors.Census.MySql.dll
