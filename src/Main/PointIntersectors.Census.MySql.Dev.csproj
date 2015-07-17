@@ -99,6 +99,7 @@
     <Compile Include="Census2000\MySqlCensus2000StatesPointIntersector.cs" />
     <Compile Include="Census2010\MySqlCensus2010PointIntersector.cs" />
     <Compile Include="Census2010\MySqlCensus2010StatesPointIntersector.cs" />
+    <Compile Include="Core\MySqlPointIntersector.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -139,6 +140,10 @@
       <Project>{5328FADB-9D7C-410A-877E-F03E08367D9C}</Project>
       <Name>PointIntersectors.Census.Dev</Name>
       <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\PointIntersectors.Core\src\Main\PointIntersectors.Core.Dev.csproj">
+      <Project>{7E591BBB-913A-4FD9-9A8C-9FCF4A8E4C99}</Project>
+      <Name>PointIntersectors.Core.Dev</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
