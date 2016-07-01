@@ -27,6 +27,10 @@ namespace TAMU.GeoInnovation.PointIntersectors.Census.MySql.Census2000
             : base(version, blockFilesQueryManager, stateFilesQueryManager, countryFilesQueryManager)
         { }
 
+        public MySqlCensus2000PointIntersector(Version version, IQueryManager blockFilesQueryManager, IQueryManager stateFilesQueryManager, IQueryManager countryFilesQueryManager)
+            : base(version, blockFilesQueryManager, stateFilesQueryManager, countryFilesQueryManager)
+        { }
+
 
 
         public override string GetStateFips(double longitude, double latitude)

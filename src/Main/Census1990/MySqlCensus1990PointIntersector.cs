@@ -25,7 +25,11 @@ namespace TAMU.GeoInnovation.PointIntersectors.Census.MySql.Census1990
             : base(version, blockFilesQueryManager, stateFilesQueryManager, countryFilesQueryManager)
         { }
 
-       
+        public MySqlCensus1990PointIntersector(Version version, IQueryManager blockFilesQueryManager, IQueryManager stateFilesQueryManager, IQueryManager countryFilesQueryManager)
+            : base(version, blockFilesQueryManager, stateFilesQueryManager, countryFilesQueryManager)
+        { }
+
+
         public override DataTable GetRecordAsDataTable(double longitude, double latitude, string state, string county, double version)
         {
             DataTable ret = null;
