@@ -151,10 +151,6 @@
       <Name>PointIntersectors.Census.Dev</Name>
       <Private>False</Private>
     </ProjectReference>
-    <ProjectReference Include="..\..\..\PointIntersectors.Core\src\Main\PointIntersectors.Core.Dev.csproj">
-      <Project>{7e591bbb-913a-4fd9-9a8c-9fcf4a8e4c99}</Project>
-      <Name>PointIntersectors.Core.Dev</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!--  
