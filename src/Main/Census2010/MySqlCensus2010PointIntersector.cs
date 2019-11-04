@@ -800,4 +800,3 @@ namespace TAMU.GeoInnovation.PointIntersectors.Census.MySql.Census2010
 
 }
 
-  

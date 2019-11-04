@@ -12,7 +12,7 @@ namespace TAMU.GeoInnovation.PointIntersectors.Census.MySql.Census2010
 
         #region Properties
 
-        
+
         #endregion
 
         public MySqlCensus2010StatesPointIntersector()
@@ -23,7 +23,7 @@ namespace TAMU.GeoInnovation.PointIntersectors.Census.MySql.Census2010
             : base(version, blockFilesQueryManager, stateFilesQueryManager, countryFilesQueryManager)
         { }
 
-        
+
 
         public override DataTable GetRecordAsDataTable(double longitude, double latitude, string state, string county, double version)
         {
